@@ -1,0 +1,27 @@
+npm install react
+npm install react-native
+npm install @expo-google-fonts/dev#
+npm install @react-native-community/masked-view
+npm install @react-navigation/native
+npm install @react-navigation/native-stack
+npm install @react-navigation/stack
+npm install expo
+npm install expo-app-loading
+npm install expo-font
+npm install expo-splash-screen
+npm install expo-status-bar
+npm install react-native-gesture-handler
+npm install react-native-reanimated
+npm install react-native-safe-area-context
+npm install react-native-screens
+npm install react-navigation
+npm install react-native-web
+npm install react-dom
+npm install @expo/webpack-config
+npm install firebase
+npm install react-native-select-dropdown
+npm install @react-native-async-storage/async-storage
+npm install react-native-maps
+npm expo install expo-location
+npm install react-native-calendars
+npm install react-native-elements

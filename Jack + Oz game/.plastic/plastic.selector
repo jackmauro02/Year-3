@@ -1,0 +1,4 @@
+repository "game JackOz@JackMauro@cloud"
+  path "/"
+    smartbranch "/main"       
+     
